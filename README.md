@@ -1,6 +1,6 @@
-# Neural Network Attention Visualizer
+# Cross Encoder Attention Visualizer
 
-This project provides tools to visualize and analyze attention patterns in transformer-based neural networks, helping understand how these models process and relate different parts of input text.
+This project provides tools to visualize and analyze attention patterns in Cross Encoder, helping understand how these models process and relate different parts of input text.
 
 ## Features
 
