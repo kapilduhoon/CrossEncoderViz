@@ -1,0 +1,4 @@
+torch>=2.0.0
+transformers>=4.30.0
+bertviz>=1.4.0
+matplotlib>=3.5.0
