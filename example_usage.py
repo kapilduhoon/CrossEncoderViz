@@ -1,4 +1,3 @@
-# examples/example_usage.py
 from src.attention_visualizer import AttentionVisualizer
 
 def main():
