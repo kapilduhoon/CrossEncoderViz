@@ -1,23 +1,3 @@
-# Project structure:
-#
-# neural-attention-viz/
-# ├── requirements.txt
-# ├── README.md
-# ├── src/
-# │   ├── __init__.py
-# │   └── attention_visualizer.py
-# └── examples/
-#     └── example_usage.py
-
-# requirements.txt
-"""
-torch>=2.0.0
-transformers>=4.30.0
-bertviz>=1.4.0
-matplotlib>=3.5.0
-"""
-
-# src/attention_visualizer.py
 from transformers import AutoTokenizer, AutoModel, AutoModelForSequenceClassification
 from bertviz import head_view
 import torch
